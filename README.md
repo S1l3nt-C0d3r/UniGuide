@@ -3,7 +3,6 @@
 ![Built With](https://img.shields.io/badge/built%20with-React%20Native-blue)
 ![Expo](https://img.shields.io/badge/Expo-SDK%2051-black)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 **UniGuide** is a mobile application designed to help Indian students discover, compare, and track colleges and entrance-exam related information — all in one place.
 
